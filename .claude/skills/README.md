@@ -17,3 +17,11 @@ The other skills (`roblox-game-ideas`, `roblox-to-prd`, `handoff`, `zoom-out`,
 Note: that pack assumes game code lives only in Studio and is never committed
 to Git. This project uses Rojo with code in `src/` (see `CLAUDE.md`), so
 `CLAUDE.md` wins on that point.
+
+`cartoon-3d-short` comes from
+[mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts)
+(MIT, see its LICENSE), copied at commit `e3b817b6afc6cd413466d43f11ba31209e034bbf`. Its reference frames and
+contact sheets (references/frames, references/sheets) are not committed here:
+the skill says they are private style-study material that must not be
+published. Download them from the upstream repo onto your own computer if you
+want the frame-by-frame comparisons.
