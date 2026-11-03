@@ -25,3 +25,11 @@ contact sheets (references/frames, references/sheets) are not committed here:
 the skill says they are private style-study material that must not be
 published. Download them from the upstream repo onto your own computer if you
 want the frame-by-frame comparisons.
+
+The `ponytail*` skills come from
+[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+(MIT, see `PONYTAIL-LICENSE`), copied at commit `96608e078b2d5ea607c5c3b8b5a54d1c1fba6846`. Only the SKILL.md
+files were copied. The upstream hooks (Node scripts that run on session start)
+and the statusline were left out on purpose. Ponytail pushes for the smallest
+possible change, so `CLAUDE.md` wins where it asks for more (server
+validation, localization table, mobile support).
